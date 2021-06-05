@@ -1,7 +1,7 @@
 # deep-live-web
 Barebones web application that embeds Tweets and displays their English translations.
 
-Tweet fetching and translation is handled in [DeepLive](https://github.com/yongchiegui/DeepLive)
+Tweet fetching and translation is handled in [DeepLive](https://github.com/yongchiegui/DeepLive).
 
 ## Usage
 - `npm install`: installs dependencies
